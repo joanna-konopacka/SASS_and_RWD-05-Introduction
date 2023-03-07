@@ -1,0 +1,9 @@
+@charset "UTF-8";
+/*W pliku index.html znajdziesz sekcję o klasie winnie_the_pooh, a w niej element blockquote. Ustaw temu elementowi wielkość tekstu na 300%, tak, aby po przeliczeniu wielkość ta była równa 30px */
+.winnie_the_pooh {
+  font-size: 10px;
+}
+
+blockquote {
+  font-size: 300%;
+}/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,9 @@
+@charset "UTF-8";
+/*W pliku index.html znajdziesz sekcję o klasie container, a w niej element paragraf. Ustaw wielkość tekstu tego paragrafu na 3rem, ale w taki sposób, aby wielkość ta odpowiadała 24px.*/
+.container {
+  font-size: 8px;
+}
+
+p {
+  font-size: 3rem;
+}/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/*W pliku index.html znajdziesz sekcję o klasie images, a w niej element o klasie img_one. Za pomocą background-image ustaw tło elementowi img_one. (Obrazek o nazwie cat.jpg znajdziesz w folderze images). Całej sekcji ustaw szerokość na 80% oraz obramowanie, aby było widać granice tego elementu. Natomiast element z obrazkiem niech zajmuje 30% tej sekcji.
+
+Spróbuj teraz zakomentować szerokość sekcji o klasie images. Jaką szerokość ma teraz element z obrazkiem? Zapisz swoje spostrzeżenia w komentarzu. */
+
+section {
+	box-sizing: border-box;
+	width: 80%;
+	border: 1px;
+}
+
+.img_one {
+	background-image: url(../images/cat.jpg);
+	height: 25rem;
+	width: 30%;
+	background-size: cover;
+} /*# sourceMappingURL=main.css.map */

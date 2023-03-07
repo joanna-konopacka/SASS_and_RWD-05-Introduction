@@ -1,0 +1,10 @@
+/*W pliku index.html znajdziesz sekcję o klasie bg_box, a w niej element div o klasie box. Ustaw wielkość tekstu w elemencie box na 2em. Ustaw mu również szerokość (również za pomocą jednostki em), w taki sposób, aby po przeliczeniu wartość width miała 60px.*/
+
+.bg_box {
+	font-size: 15px;
+}
+
+.box {
+	font-size: 2em;
+	width: 4em;
+}

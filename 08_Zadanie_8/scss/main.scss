@@ -1,0 +1,21 @@
+/*W pliku index.html znajdziesz sekcję o klasie test_height_grandpa, a w niej zagnieżdżone elementy div. Ustaw obramowania w różnych kolorach wszystkim elementom. Następnie elementowi o klasie test_height_grandpa ustaw wysokość równą '50px' oraz elementowi test_height_daddy wysokość o 2 razy większą. Skorzystaj z jednostki procentowej.
+
+Elementowi o klasie test_height_baby ustaw wysokość taką samą jaką ma element o klasie test_height_grandpa - użyj jednostek procentowych.
+
+Dodatkowe
+Elementowi o klasie test_height_daddy zakomentuj wysokość. Napisz w komentarzu swoje spostrzeżenia. */
+
+.test_height_grandpa {
+	border: 1px solid yellow;
+	height: 50px;
+}
+
+.test_height_daddy {
+	border: 1px solid blue;
+	height: 200%;
+}
+
+.test_height_baby {
+	border: 1px solid red;
+	height: 50%;
+}

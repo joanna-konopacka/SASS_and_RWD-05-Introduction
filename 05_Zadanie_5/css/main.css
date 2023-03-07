@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/*W pliku index.html znajdziesz sekcję o klasie container, a w niej element o klasie footer-text. Ustaw temu elementowi obramowanie oraz szerokość, w taki sposób, aby po przeliczeniu szerokość tego elementu wynosiła 240px. Użyj jednostki rem*/
+html {
+  font-size: 10px;
+}
+
+.footer-text {
+  box-sizing: border-box;
+  border: 0.2rem solid black;
+  width: 24rem;
+  margin: 0;
+}/*# sourceMappingURL=main.css.map */
